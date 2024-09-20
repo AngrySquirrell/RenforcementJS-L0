@@ -1,0 +1,11 @@
+{
+    "name": "renforcementjs",
+    "version": "1.0.0",
+    "description": "\"# RenforcementJS-L0\"",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./BackLvl0/index.js; cd ./FrontLvl0 & vite"
+    },
+    "author": "",
+    "license": "ISC"
+}
